@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b96cc6d-a110-47c7-b109-d5f30177401e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/TripletSumCloseToTarget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>= new</find>
+      <find>Node</find>
+      <find>steps</find>
+      <find>solu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>(  = NEW</replace>
+      <replace>(  new</replace>
+      <replace>TreeNode</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/RecurssionOps.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/AncestorNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/BalancedTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/BottomView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/LeftMostNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/Distance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/Heights.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/InorderDFStoTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/InorderSuccessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/SmallestSumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/DistinctFriuitsBaskets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/LongestSubstringKDistinct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/MaxFruitCountOf2Types.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/NoRepeatSubstring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/CharacterReplacement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/ReplacingOnes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/StringPermutation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/StringAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/permuations/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/permuations/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/PowerSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/MinimumWindowSubstring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/array/WordConcatenation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/WordConcatenation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/2pointer/Readme.cmd" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/PairWithTargetSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/SortedArraySquares.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/TripletSumToZero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/TripletSumCloseToTarget.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JQLSearcherProjectManager">
+    <selected>-1</selected>
+    <searchers />
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="google-prep" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="145" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ads" type="462c0819:PsiDirectoryNode" />
+              <item name="twopointer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TripletSumToZero">
+    <configuration name="CharacterReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.slidingwindow.CharacterReplacement" />
+      <module name="ads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kalva.learnings.ads.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairWithTargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.twopointer.PairWithTargetSum" />
+      <module name="ads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kalva.learnings.ads.twopointer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.twopointer.RemoveDuplicates" />
+      <module name="ads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kalva.learnings.ads.twopointer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedArraySquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.twopointer.SortedArraySquares" />
+      <module name="ads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kalva.learnings.ads.twopointer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TripletSumToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.twopointer.TripletSumToZero" />
+      <module name="ads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kalva.learnings.ads.twopointer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TripletSumToZero" />
+        <item itemvalue="Application.SortedArraySquares" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.PairWithTargetSum" />
+        <item itemvalue="Application.CharacterReplacement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/server/kafka-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../swiggy/delivery/platform/dexp-spark-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../swiggy/vendor/dexp-spark-jobs" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="Talios.JiraConfigurationComponent" enableIssueTracking="false" autoRefresh="false" useExternalBrowser="false" refreshTimeout="0" annotateissues="false">
+    <servers />
+    <columns>
+      <column id="created" position="0" width="-1" />
+      <column id="key" position="1" width="-1" />
+      <column id="component" position="2" width="-1" />
+      <column id="title" position="3" width="-1" />
+      <column id="type" position="4" width="-1" />
+      <column id="priority" position="5" width="-1" />
+      <column id="status" position="6" width="-1" />
+      <column id="resolution" position="7" width="-1" />
+      <column id="assignee" position="8" width="-1" />
+      <column id="reporter" position="9" width="-1" />
+      <column id="updated" position="10" width="-1" />
+      <column id="dueDate" position="11" width="-1" />
+      <column id="version" position="12" width="-1" />
+      <column id="fixVersion" position="13" width="-1" />
+    </columns>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b96cc6d-a110-47c7-b109-d5f30177401e" name="Default Changelist" comment="" />
+      <created>1624382503829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624382503829</updated>
+      <workItem from="1624382505415" duration="14504000" />
+      <workItem from="1624446481151" duration="27151000" />
+      <workItem from="1624599012381" duration="1206000" />
+      <workItem from="1624877649839" duration="86000" />
+      <workItem from="1626282902993" duration="40692000" />
+      <workItem from="1626866527472" duration="291000" />
+      <workItem from="1626882951838" duration="10252000" />
+      <workItem from="1627271325854" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94779000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1175" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1546724" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="aws.explorer" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Amazon EC2" order="5" />
+      <window_info anchor="bottom" id="GraphQL" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" weight="0.32987747" />
+      <window_info anchor="bottom" id="AWS Tail" order="9" />
+      <window_info anchor="bottom" id="Tool Output" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="JIRA" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="15" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="18" weight="0.32731137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3292232" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="make" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="JIRA backlog" order="7" side_tool="true" />
+      <window_info anchor="right" id="aiXcoder" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="kafkalytic" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="13" />
+      <window_info anchor="right" id="Debug" order="14" side_tool="true" weight="0.33919063" />
+      <window_info anchor="right" id="Run" order="15" side_tool="true" weight="0.29233226" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/InorderSuccessor.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/InorderSuccessor.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/MinimumWindowSubstring.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>arr</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>curr.substring(0, curr.length() - 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ques.substring(3)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ques.length(3)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ques.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ques.substring(4)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i + 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ques.substring(i + 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>originalStr.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/RecurssionOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="32" selection-start-line="6" selection-end-line="32" />
+          <folding>
+            <element signature="method#inOrder#0;class#RecurssionOps#0" />
+            <element signature="e#178#209#1" />
+            <element signature="method#preOrder#0;class#RecurssionOps#0" />
+            <element signature="e#393#423#1" />
+            <element signature="method#preOrder#1;class#RecurssionOps#0" />
+            <element signature="e#626#657#1" />
+            <element signature="method#main#0;class#RecurssionOps#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/AncestorNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/BalancedTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/BottomView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/LeftMostNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/Distance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="951" column="54" lean-forward="true" selection-start-line="951" selection-start-column="54" selection-end-line="951" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="355" column="66" selection-start-line="355" selection-start-column="66" selection-end-line="355" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="839" column="16" selection-start-line="839" selection-start-column="16" selection-end-line="839" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/Heights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/InorderDFStoTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/InorderSuccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/KAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/SmallestSumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/MaxFruitCountOf2Types.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="48" column="50" lean-forward="true" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/LongestSubstringKDistinct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="33" column="72" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/NoRepeatSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/ReplacingOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/StringAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1648#1657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="1502" column="30" lean-forward="true" selection-start-line="1502" selection-start-column="30" selection-end-line="1502" selection-end-column="30" />
+          <folding>
+            <element signature="docComment;class#Arrays#0" />
+            <element signature="e#2018#2279#0" />
+            <element signature="e#2439#3206#0" />
+            <element signature="e#2439#3518#0" />
+            <element signature="e#3524#3656#0" />
+            <element signature="e#3524#4131#0" />
+            <element signature="e#3772#3911#1" />
+            <element signature="e#3939#4015#1" />
+            <element signature="e#4051#4125#1" />
+            <element signature="e#4137#4481#0" />
+            <element signature="e#4487#4989#0" />
+            <element signature="e#5105#6161#0" />
+            <element signature="e#5105#6356#0" />
+            <element signature="e#6362#6864#0" />
+            <element signature="e#6981#8037#0" />
+            <element signature="e#6981#8233#0" />
+            <element signature="e#8239#8741#0" />
+            <element signature="e#8859#9915#0" />
+            <element signature="e#8859#10112#0" />
+            <element signature="e#10118#10620#0" />
+            <element signature="e#10737#11793#0" />
+            <element signature="e#10737#11989#0" />
+            <element signature="e#11995#12497#0" />
+            <element signature="e#12602#13658#0" />
+            <element signature="e#12602#13842#0" />
+            <element signature="e#13848#14888#0" />
+            <element signature="e#15006#16600#0" />
+            <element signature="e#15006#16797#0" />
+            <element signature="e#16803#17848#0" />
+            <element signature="e#17967#19566#0" />
+            <element signature="e#17967#19764#0" />
+            <element signature="e#19770#20632#0" />
+            <element signature="e#19770#21104#0" />
+            <element signature="e#21110#22559#0" />
+            <element signature="e#21110#23142#0" />
+            <element signature="e#23148#24010#0" />
+            <element signature="e#23148#24494#0" />
+            <element signature="e#24500#25948#0" />
+            <element signature="e#24500#26543#0" />
+            <element signature="e#26549#27413#0" />
+            <element signature="e#26549#27900#0" />
+            <element signature="e#27906#29357#0" />
+            <element signature="e#27906#29955#0" />
+            <element signature="e#29961#30821#0" />
+            <element signature="e#29961#31302#0" />
+            <element signature="e#31308#32755#0" />
+            <element signature="e#31308#33347#0" />
+            <element signature="e#33353#34215#0" />
+            <element signature="e#33353#34699#0" />
+            <element signature="e#34705#36154#0" />
+            <element signature="e#34705#36749#0" />
+            <element signature="e#36755#38157#0" />
+            <element signature="e#36755#38644#0" />
+            <element signature="e#38650#40639#0" />
+            <element signature="e#38650#41237#0" />
+            <element signature="e#41243#42652#0" />
+            <element signature="e#41243#43142#0" />
+            <element signature="e#43148#45144#0" />
+            <element signature="e#43148#45745#0" />
+            <element signature="e#45751#47552#0" />
+            <element signature="e#45751#48202#0" />
+            <element signature="e#48208#50592#0" />
+            <element signature="e#48208#51357#0" />
+            <element signature="e#51363#53215#0" />
+            <element signature="e#51363#53892#0" />
+            <element signature="e#53898#56369#0" />
+            <element signature="e#53898#57197#0" />
+            <element signature="e#57203#57252#0" />
+            <element signature="e#57258#57527#0" />
+            <element signature="e#57258#57818#0" />
+            <element signature="e#57824#60191#0" />
+            <element signature="e#57824#60391#0" />
+            <element signature="e#60397#60438#0" />
+            <element signature="e#60397#60575#0" />
+            <element signature="e#60581#63515#0" />
+            <element signature="e#60581#63820#0" />
+            <element signature="e#63826#63867#0" />
+            <element signature="e#63826#64113#0" />
+            <element signature="e#64119#64288#0" />
+            <element signature="e#64352#64706#0" />
+            <element signature="e#64352#66248#0" />
+            <element signature="e#65110#65338#1" />
+            <element signature="e#65631#65700#0" />
+            <element signature="e#65843#65937#1" />
+            <element signature="e#66059#66242#1" />
+            <element signature="e#66254#66294#0" />
+            <element signature="e#66254#66421#0" />
+            <element signature="e#66427#68896#0" />
+            <element signature="e#66427#69205#0" />
+            <element signature="e#68986#69018#1" />
+            <element signature="e#69024#69199#1" />
+            <element signature="e#69211#69252#0" />
+            <element signature="e#69502#72529#0" />
+            <element signature="e#69502#72999#0" />
+            <element signature="e#72679#72731#1" />
+            <element signature="e#72737#72993#1" />
+            <element signature="e#73005#73046#0" />
+            <element signature="e#73005#73419#0" />
+            <element signature="e#73425#73774#0" />
+            <element signature="e#73425#75237#0" />
+            <element signature="e#74158#74347#1" />
+            <element signature="e#74646#74715#0" />
+            <element signature="e#74845#74937#1" />
+            <element signature="e#75059#75231#1" />
+            <element signature="e#75267#75987#0" />
+            <element signature="e#75267#76251#0" />
+            <element signature="e#76257#76975#0" />
+            <element signature="e#76257#77369#0" />
+            <element signature="e#77375#78039#0" />
+            <element signature="e#77375#78305#0" />
+            <element signature="e#78311#78975#0" />
+            <element signature="e#78311#79367#0" />
+            <element signature="e#79373#80254#0" />
+            <element signature="e#79373#80526#0" />
+            <element signature="e#80532#81200#0" />
+            <element signature="e#80532#81598#0" />
+            <element signature="e#81604#82268#0" />
+            <element signature="e#81604#82531#0" />
+            <element signature="e#82537#83199#0" />
+            <element signature="e#82537#83588#0" />
+            <element signature="e#83612#84682#0" />
+            <element signature="e#84802#86371#0" />
+            <element signature="e#84802#86605#0" />
+            <element signature="e#86611#87201#0" />
+            <element signature="e#86875#87149#1" />
+            <element signature="e#87207#88275#0" />
+            <element signature="e#88393#89960#0" />
+            <element signature="e#88393#90192#0" />
+            <element signature="e#90198#90785#0" />
+            <element signature="e#90460#90733#1" />
+            <element signature="e#90791#91863#0" />
+            <element signature="e#91985#93556#0" />
+            <element signature="e#91985#93792#0" />
+            <element signature="e#93798#94391#0" />
+            <element signature="e#94064#94339#1" />
+            <element signature="e#94397#95467#0" />
+            <element signature="e#95587#97156#0" />
+            <element signature="e#95587#97390#0" />
+            <element signature="e#97396#97986#0" />
+            <element signature="e#97660#97934#1" />
+            <element signature="e#97992#99062#0" />
+            <element signature="e#99182#100751#0" />
+            <element signature="e#99182#100985#0" />
+            <element signature="e#100991#101581#0" />
+            <element signature="e#101255#101529#1" />
+            <element signature="e#101587#102733#0" />
+            <element signature="e#102857#104502#0" />
+            <element signature="e#102857#104740#0" />
+            <element signature="e#104746#105866#0" />
+            <element signature="e#105014#105814#1" />
+            <element signature="e#105324#105804#1" />
+            <element signature="e#105872#107011#0" />
+            <element signature="e#107133#108772#0" />
+            <element signature="e#107133#109008#0" />
+            <element signature="e#109014#110123#0" />
+            <element signature="e#109280#110071#1" />
+            <element signature="e#109589#110061#1" />
+            <element signature="e#110129#111664#0" />
+            <element signature="e#111788#113844#0" />
+            <element signature="e#111788#114082#0" />
+            <element signature="e#114088#114820#0" />
+            <element signature="e#114356#114768#1" />
+            <element signature="e#114826#116533#0" />
+            <element signature="e#114826#116673#0" />
+            <element signature="e#116679#118887#0" />
+            <element signature="e#116679#119151#0" />
+            <element signature="e#119157#119903#0" />
+            <element signature="e#119381#119454#1" />
+            <element signature="e#119545#119851#1" />
+            <element signature="e#119934#120578#0" />
+            <element signature="e#119934#120955#0" />
+            <element signature="e#120961#121604#0" />
+            <element signature="e#120961#121979#0" />
+            <element signature="e#121985#122630#0" />
+            <element signature="e#121985#123009#0" />
+            <element signature="e#123015#123659#0" />
+            <element signature="e#123015#124036#0" />
+            <element signature="e#124042#124686#0" />
+            <element signature="e#124042#125063#0" />
+            <element signature="e#125069#125716#0" />
+            <element signature="e#125069#126099#0" />
+            <element signature="e#126105#127062#0" />
+            <element signature="e#126105#127491#0" />
+            <element signature="e#127497#128449#0" />
+            <element signature="e#127497#128870#0" />
+            <element signature="e#128876#129664#0" />
+            <element signature="e#128876#130143#0" />
+            <element signature="e#129957#130115#1" />
+            <element signature="e#130165#130388#0" />
+            <element signature="e#130165#130522#0" />
+            <element signature="e#130528#131409#0" />
+            <element signature="e#130528#131617#0" />
+            <element signature="e#131623#131844#0" />
+            <element signature="e#131623#131976#0" />
+            <element signature="e#131982#132861#0" />
+            <element signature="e#131982#133067#0" />
+            <element signature="e#133073#133298#0" />
+            <element signature="e#133073#133434#0" />
+            <element signature="e#133440#134323#0" />
+            <element signature="e#133440#134533#0" />
+            <element signature="e#134539#134762#0" />
+            <element signature="e#134539#134896#0" />
+            <element signature="e#134902#135783#0" />
+            <element signature="e#134902#135991#0" />
+            <element signature="e#135997#136220#0" />
+            <element signature="e#135997#136354#0" />
+            <element signature="e#136360#137241#0" />
+            <element signature="e#136360#137449#0" />
+            <element signature="e#137455#137684#0" />
+            <element signature="e#137455#137824#0" />
+            <element signature="e#137830#138717#0" />
+            <element signature="e#137830#138959#0" />
+            <element signature="e#138965#139192#0" />
+            <element signature="e#138965#139330#0" />
+            <element signature="e#139336#140221#0" />
+            <element signature="e#139336#140431#0" />
+            <element signature="e#140437#140662#0" />
+            <element signature="e#140437#140798#0" />
+            <element signature="e#140804#141687#0" />
+            <element signature="e#140804#141897#0" />
+            <element signature="e#141903#142274#0" />
+            <element signature="e#141903#142412#0" />
+            <element signature="e#142418#143447#0" />
+            <element signature="e#142418#143659#0" />
+            <element signature="e#143681#144708#0" />
+            <element signature="e#143681#144884#0" />
+            <element signature="e#144890#146215#0" />
+            <element signature="e#144890#146671#0" />
+            <element signature="e#146677#147572#0" />
+            <element signature="e#146677#147819#0" />
+            <element signature="e#147825#148721#0" />
+            <element signature="e#147825#148972#0" />
+            <element signature="e#148978#149867#0" />
+            <element signature="e#148978#150110#0" />
+            <element signature="e#150116#151006#0" />
+            <element signature="e#150116#151253#0" />
+            <element signature="e#151259#152176#0" />
+            <element signature="e#151259#152423#0" />
+            <element signature="e#152429#153319#0" />
+            <element signature="e#152429#153570#0" />
+            <element signature="e#153576#154466#0" />
+            <element signature="e#153576#154721#0" />
+            <element signature="e#154727#155638#0" />
+            <element signature="e#154727#155897#0" />
+            <element signature="e#155903#157607#0" />
+            <element signature="e#155903#157812#0" />
+            <element signature="e#157818#159810#0" />
+            <element signature="e#157818#160413#0" />
+            <element signature="e#160419#161980#0" />
+            <element signature="e#160419#162374#0" />
+            <element signature="e#162380#163942#0" />
+            <element signature="e#162380#164340#0" />
+            <element signature="e#164346#165901#0" />
+            <element signature="e#164346#166291#0" />
+            <element signature="e#166297#167853#0" />
+            <element signature="e#166297#168247#0" />
+            <element signature="e#168253#169825#0" />
+            <element signature="e#168253#170219#0" />
+            <element signature="e#170225#171781#0" />
+            <element signature="e#170225#172179#0" />
+            <element signature="e#172185#173741#0" />
+            <element signature="e#172185#174143#0" />
+            <element signature="e#174149#175717#0" />
+            <element signature="e#174149#176123#0" />
+            <element signature="e#176142#176917#0" />
+            <element signature="e#176922#176934#0" />
+            <element signature="e#177061#177095#0" />
+            <element signature="e#177061#179573#0" />
+            <element signature="e#177602#177611#0" />
+            <element signature="e#177602#178030#0" />
+            <element signature="e#178132#178292#0" />
+            <element signature="e#178302#178723#0" />
+            <element signature="e#178406#178544#1" />
+            <element signature="e#178550#178690#1" />
+            <element signature="e#178987#179184#0" />
+            <element signature="e#179125#179174#1" />
+            <element signature="e#179194#179455#0" />
+            <element signature="e#179385#179445#1" />
+            <element signature="e#179579#180359#0" />
+            <element signature="e#179579#180658#0" />
+            <element signature="e#180504#180628#1" />
+            <element signature="e#180664#181455#0" />
+            <element signature="e#180664#181671#0" />
+            <element signature="e#181677#182459#0" />
+            <element signature="e#181677#182679#0" />
+            <element signature="e#182685#183470#0" />
+            <element signature="e#182685#183688#0" />
+            <element signature="e#183694#184474#0" />
+            <element signature="e#183694#184692#0" />
+            <element signature="e#184698#185484#0" />
+            <element signature="e#184698#185724#0" />
+            <element signature="e#185730#186512#0" />
+            <element signature="e#185730#186754#0" />
+            <element signature="e#186760#187544#0" />
+            <element signature="e#186760#187855#0" />
+            <element signature="e#187693#187826#1" />
+            <element signature="e#187861#188868#0" />
+            <element signature="e#187861#189126#0" />
+            <element signature="e#189132#190696#0" />
+            <element signature="e#189132#192030#0" />
+            <element signature="e#190850#192000#1" />
+            <element signature="e#192036#193732#0" />
+            <element signature="e#192036#194411#0" />
+            <element signature="e#194040#194384#1" />
+            <element signature="e#194417#195642#0" />
+            <element signature="e#195648#196262#0" />
+            <element signature="e#195648#196692#0" />
+            <element signature="e#196543#196686#1" />
+            <element signature="e#196698#197311#0" />
+            <element signature="e#196698#197740#0" />
+            <element signature="e#197591#197734#1" />
+            <element signature="e#197746#198361#0" />
+            <element signature="e#197746#198792#0" />
+            <element signature="e#198643#198786#1" />
+            <element signature="e#198798#199412#0" />
+            <element signature="e#198798#199842#0" />
+            <element signature="e#199693#199836#1" />
+            <element signature="e#199848#200462#0" />
+            <element signature="e#199848#200892#0" />
+            <element signature="e#200743#200886#1" />
+            <element signature="e#200898#201515#0" />
+            <element signature="e#200898#201948#0" />
+            <element signature="e#201799#201942#1" />
+            <element signature="e#201954#202569#0" />
+            <element signature="e#201954#203001#0" />
+            <element signature="e#202852#202995#1" />
+            <element signature="e#203007#203623#0" />
+            <element signature="e#203007#204055#0" />
+            <element signature="e#203906#204049#1" />
+            <element signature="e#204061#204803#0" />
+            <element signature="e#204061#205252#0" />
+            <element signature="e#205087#205246#1" />
+            <element signature="e#205258#206918#0" />
+            <element signature="e#205258#207286#0" />
+            <element signature="e#207292#209466#0" />
+            <element signature="e#207440#207503#1" />
+            <element signature="e#207561#207622#1" />
+            <element signature="e#207703#209409#1" />
+            <element signature="e#207774#207825#1" />
+            <element signature="e#207831#209319#1" />
+            <element signature="e#207926#209187#1" />
+            <element signature="e#208896#209169#1" />
+            <element signature="e#209193#209305#1" />
+            <element signature="e#209473#210046#0" />
+            <element signature="e#209473#210268#0" />
+            <element signature="e#210274#210900#0" />
+            <element signature="e#210274#211142#0" />
+            <element signature="e#211095#211134#0" />
+            <element signature="e#211148#211673#0" />
+            <element signature="e#211148#211890#0" />
+            <element signature="e#211896#212467#0" />
+            <element signature="e#211896#212704#0" />
+            <element signature="e#212652#212696#0" />
+            <element signature="e#212710#213235#0" />
+            <element signature="e#212710#213455#0" />
+            <element signature="e#213461#214039#0" />
+            <element signature="e#213461#214279#0" />
+            <element signature="e#214226#214271#0" />
+            <element signature="e#214285#214810#0" />
+            <element signature="e#214285#215036#0" />
+            <element signature="e#215042#215620#0" />
+            <element signature="e#215042#215866#0" />
+            <element signature="e#215811#215858#0" />
+            <element signature="e#215872#216312#0" />
+            <element signature="e#215872#216513#0" />
+            <element signature="e#216519#217364#0" />
+            <element signature="e#216519#217633#0" />
+            <element signature="e#217639#218050#0" />
+            <element signature="e#217639#218252#0" />
+            <element signature="e#218258#219074#0" />
+            <element signature="e#218258#219344#0" />
+            <element signature="e#219350#219764#0" />
+            <element signature="e#219350#219968#0" />
+            <element signature="e#219974#220791#0" />
+            <element signature="e#219974#221063#0" />
+            <element signature="e#221069#221490#0" />
+            <element signature="e#221069#221698#0" />
+            <element signature="e#221704#222523#0" />
+            <element signature="e#221704#222799#0" />
+            <element signature="e#222805#223093#0" />
+            <element signature="e#223204#223903#0" />
+            <element signature="e#223204#224093#0" />
+            <element signature="e#224099#224345#0" />
+            <element signature="e#224454#225111#0" />
+            <element signature="e#224454#225302#0" />
+            <element signature="e#225308#225555#0" />
+            <element signature="e#225666#226324#0" />
+            <element signature="e#225666#226518#0" />
+            <element signature="e#226524#226775#0" />
+            <element signature="e#226890#227552#0" />
+            <element signature="e#226890#227752#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1466" column="23" selection-start-line="1466" selection-start-column="23" selection-end-line="1466" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/permuations/Iterative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/StringPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/MinimumWindowSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/permuations/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/PowerSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/WordConcatenation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/Anagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/CharacterReplacement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/README.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/PairWithTargetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/SortedArraySquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/TripletSumToZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/TripletSumCloseToTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ads</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
