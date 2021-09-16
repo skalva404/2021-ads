@@ -1,7 +1,8 @@
 package kalva.learnings.ads.fastnslowptr;
 
-import static kalva.learnings.ads.fastnslowptr.ListNode.findMiddle;
-import static kalva.learnings.ads.fastnslowptr.ListNode.reverseNode;
+import kalva.learnings.ads.ListNode;
+
+import static kalva.learnings.ads.ListNode.reverseNode;
 
 /**
  * Given the head of a Singly LinkedList, write a method to modify the LinkedList
@@ -26,7 +27,7 @@ public class RearrangeList {
 
     public static void reorder(ListNode head) {
 
-        ListNode middle = findMiddle(head);
+        ListNode middle = ListNode.findMiddle(head);
 
         ListNode temp;
         ListNode first = head;

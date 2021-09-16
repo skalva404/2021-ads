@@ -1,7 +1,9 @@
 package kalva.learnings.ads.fastnslowptr;
 
-import static kalva.learnings.ads.fastnslowptr.ListNode.findMiddle;
-import static kalva.learnings.ads.fastnslowptr.ListNode.reverseNode;
+import kalva.learnings.ads.ListNode;
+
+import static kalva.learnings.ads.ListNode.findMiddle;
+import static kalva.learnings.ads.ListNode.reverseNode;
 
 public class PalindromicLinkedList {
 

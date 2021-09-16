@@ -17,7 +17,9 @@ public class TreeNode {
 
     public Integer data;
     public TreeNode left;
+    public TreeNode next;
     public TreeNode right;
+    public Integer height;
 
     public TreeNode(Integer data) {
         this.data = data;
@@ -62,6 +64,28 @@ public class TreeNode {
 
         root.right.right.left = new TreeNode(9);
         root.right.right.right = new TreeNode(10);
+        return root;
+    }
+
+    /**
+     * <pre>
+     *                       12
+     *                    /     \
+     *                  7         1
+     *                /         /  \
+     *              9         10    5
+     *            /
+     *          3
+     * </pre>
+     */
+    public static TreeNode driverData() {
+        TreeNode root = new TreeNode(12);
+        root.left = new TreeNode(7);
+        root.right = new TreeNode(1);
+        root.left.left = new TreeNode(9);
+        root.right.left = new TreeNode(10);
+        root.right.right = new TreeNode(5);
+        root.left.left.left = new TreeNode(3);
         return root;
     }
 
@@ -219,6 +243,35 @@ public class TreeNode {
         }
         printFullNode(root.left());
         printFullNode(root.right());
+    }
+
+    public void printTree() {
+        TreeNode current = this;
+        System.out.print("Traversal using 'next' pointer: ");
+        while (current != null) {
+            System.out.print(current.data + " ");
+            current = current.next;
+        }
+    }
+
+    // level order traversal using 'next' pointer
+    public void printLevelOrder() {
+        TreeNode nextLevelRoot = this;
+        while (nextLevelRoot != null) {
+            TreeNode current = nextLevelRoot;
+            nextLevelRoot = null;
+            while (current != null) {
+                System.out.print(current.data + " ");
+                if (nextLevelRoot == null) {
+                    if (current.left != null)
+                        nextLevelRoot = current.left;
+                    else if (current.right != null)
+                        nextLevelRoot = current.right;
+                }
+                current = current.next;
+            }
+            System.out.println();
+        }
     }
 
     public static void main(String[] args) {
