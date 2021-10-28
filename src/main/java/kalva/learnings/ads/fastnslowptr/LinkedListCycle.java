@@ -38,6 +38,19 @@ public class LinkedListCycle {
         return null;
     }
 
+    public static void breakTheLoop(ListNode head, ListNode loopNode) {
+
+        ListNode left = head.next;
+        ListNode right = loopNode;
+        while (left != right.next) {
+            left = left.next;
+            right = right.next;
+        }
+        right.next = null;
+        System.out.print("LinkedList after breaking loop : ");
+        head.printList();
+    }
+
     public static int findLoopLength(ListNode head) {
         ListNode loopNode = hasCycle(head);
         if (loopNode == null) {
@@ -58,19 +71,6 @@ public class LinkedListCycle {
             breakTheLoop(head, loopNode);
         }
         return count;
-    }
-
-    public static void breakTheLoop(ListNode head, ListNode loopNode) {
-
-        ListNode left = head.next;
-        ListNode right = loopNode;
-        while (left != right.next) {
-            left = left.next;
-            right = right.next;
-        }
-        right.next = null;
-        System.out.print("LinkedList after breaking loop : ");
-        head.printList();
     }
 
     public static void main(String[] args) {

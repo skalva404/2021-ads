@@ -1,8 +1,8 @@
 package kalva.learnings.ads.mergeinnntervals;
 
 public class Interval {
-    int start;
-    int end;
+    public int start;
+    public int end;
 
     public Interval(int start, int end) {
         this.start = start;

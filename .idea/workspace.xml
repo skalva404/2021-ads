@@ -1,99 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3b96cc6d-a110-47c7-b109-d5f30177401e" name="Default Changelist" comment="bh">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TrieNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/avl/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/avl/ConstructAVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/BinaryTreeDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ConnectAllSiblings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ConnectLevelOrderSiblings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/README.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/RightViewTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ZigzagTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bst/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/DuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/FindCorruptNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/FirstKMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/FirstSmallestMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/CountAllPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/MaximumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/PathWithGivenSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/SumOfPathNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/TreeDiameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/TreePathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/linkedlist/README.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/linkedlist/ReverseEveryKElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/linkedlist/ReverseSubList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Metadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/MetadataBitSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/QuotientFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Slot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Permutations.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/SubsetWithDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/SubsetWithDuplicates.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Subsets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/trie/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MaximizeCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/NextInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/SlidingWindowMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/AlgorithmsMadeEasy/NQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/arrays/RainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/basic/TopTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/CeilingOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/FindRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/MaxInBitonicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/MinimumDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/NextLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/RotationCountOfRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchBitonicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchInfiniteSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/Flipping1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/GasStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/LargestRectInHisto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximalRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximumSquareSubMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MergeIntervalsForMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MinPalindromCuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MjorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/PalindromeSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/SubsequenceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/DoubleCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/EvaluateExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/GeneralizedAbbreviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/GeneralizedAbbreviation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/GenerateParentheses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/LetterCaseStringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/LetterCaseStringPermutation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/ConnectRopes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/FrequencySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/FrequencyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KClosestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KClosestPointsToOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KLargestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KthLargestNumberInStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/MaximumDistinctElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/README.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/RearrangeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/RearrangeStringKDistanceApart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/TaskScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/TopKFrequentNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/AlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/AllTaskSchedulingOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/MinimumHeightTrees-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/MinimumHeightTrees-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/MinimumHeightTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/README.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/SequenceReconstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/TaskScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/TaskSchedulingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/CalculateComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/TwoSingleNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/CyclicSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/BalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/BalancedTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/PalindromicLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/PalindromicLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/RearrangeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/RearrangeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/WordConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/WordConcatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/permuations/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/permuations/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/PowerSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/PowerSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Permutations.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,6 +125,15 @@
       <find>rightChild</find>
       <find>.element</find>
       <find>LOG.</find>
+      <find>System</find>
+      <find>[1</find>
+      <find>1]</find>
+      <find>1},</find>
+      <find>FunctionalInterface</find>
+      <find>muta</find>
+      <find>cached</find>
+      <find>rejection</find>
+      <find>if (isAscending)</find>
     </findStrings>
     <replaceStrings>
       <replace>(  = NEW</replace>
@@ -132,68 +146,86 @@
       <replace>right</replace>
       <replace>.data</replace>
       <replace>log.</replace>
+      <replace>{1</replace>
+      <replace>1}</replace>
+      <replace>1},</replace>
+      <replace>));</replace>
+      <replace>1));</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/main/java/kalva/learnings/ads</dir>
+      <dir>/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/java</dir>
+      <dir>$PROJECT_DIR$/src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/FindCorruptNums.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/MissingNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/FirstKMissingPositive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/FirstSmallestMissingPositive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/inplacell/README.cmd" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/RearrangeList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/LinkedListCycle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/fastnslowptr/PalindromicLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/inplacell/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/inplacelinedlist/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/inplacelinedlist/ReverseSubList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/inplacelinedlist/ReverseEveryKElements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/README.cmd" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/LevelOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ZigzagTraversal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/MinimumBinaryTreeDepth.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ConnectAllSiblings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ConnectLevelOrderSiblings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/RightViewTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/BinaryTreeDepth.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/TreePathSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/SumOfPathNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/PathWithGivenSequence.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/WordConcatenation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/CountAllPathSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/TreeDiameter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/MaximumPathSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/heaps/MedianOfAStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/SlidingWindowMedian.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TrieNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/trie/Trie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bst/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/avl/ConstructAVLTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/avl/AVLTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/QuotientFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Utils.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Metadata.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/MetadataBitSet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/QuotientFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Slot.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MaximizeCapital.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/NextInterval.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Subsets.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/SubsetWithDuplicates.java" />
         <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Permutations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/LetterCaseStringPermutation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/RainWater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/ParenthesesString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/PowerSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/GeneralizedAbbreviation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/arrays/RainWater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/MissingNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/EvaluateExpression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/SingleNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/TwoSingleNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/CalculateComplement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MergeIntervalsForMaster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/DoubleCall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MergeIntervalsForMaster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/Interval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/GasStation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MjorityElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximumSubMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/Flipping1s.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximumSquareSubMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximalRectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/LargestRectInHisto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/SubsequenceCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MinPalindromCuts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/CeilingOfANumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/NextLetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/FindRange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchInfiniteSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/MinimumDifference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/MaxInBitonicArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchBitonicArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchRotatedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/RotationCountOfRotatedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/README.cmd" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KLargestNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KClosestPointsToOrigin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/ConnectRopes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/TopKFrequentNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/FrequencySort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KthLargestNumberInStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KClosestElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/MaximumDistinctElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/SumOfElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/RearrangeString.java" />
       </list>
     </option>
   </component>
@@ -222,17 +254,20 @@
     </treeState>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="65" />
+    <option name="y" value="25" />
     <option name="width" value="1792" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectId" id="1zMScR8PDyYh7pzg5CHfUc63XZt" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,107 +308,146 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ads" type="462c0819:PsiDirectoryNode" />
-              <item name="permuations" type="462c0819:PsiDirectoryNode" />
+              <item name="topk" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ads" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ads" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ads" type="462c0819:PsiDirectoryNode" />
-              <item name="subsets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ads" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ads" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ch.qos.logback:logback-classic:1.3.0-alpha10" type="70bed36:NamedLibraryElementNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ads" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ch.qos.logback:logback-classic:1.3.0-alpha10" type="70bed36:NamedLibraryElementNode" />
-              <item name="logback-classic-1.3.0-alpha10.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ch.qos.logback:logback-classic:1.3.0-alpha10" type="70bed36:NamedLibraryElementNode" />
-              <item name="logback-classic-1.3.0-alpha10.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="classic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ch.qos.logback:logback-classic:1.3.0-alpha10" type="70bed36:NamedLibraryElementNode" />
-              <item name="logback-classic-1.3.0-alpha10.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="classic" type="462c0819:PsiDirectoryNode" />
-              <item name="spi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ch.qos.logback:logback-classic:1.3.0-alpha10" type="70bed36:NamedLibraryElementNode" />
-              <item name="logback-classic-1.3.0-alpha10.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="collect" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topologicalsort" />
+      <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps" />
       <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets" />
       <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs" />
       <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/inplacell" />
-      <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort" />
-      <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Permutations">
-    <configuration name="MaximizeCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.twoheaps.MaximizeCapital" />
-      <module name="ads" />
+  <component name="RunManager" selected="Application.GasStation">
+    <configuration name="GasStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.google.GasStation" />
+      <module name="google-prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kalva.learnings.ads.twoheaps.*" />
+          <option name="PATTERN" value="kalva.learnings.ads.google.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -381,12 +455,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.subsets.Permutations" />
-      <module name="ads" />
+    <configuration name="InorderDFStoTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.binary.InorderDFStoTree" />
+      <module name="google-prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kalva.learnings.ads.subsets.*" />
+          <option name="PATTERN" value="kalva.learnings.ads.binary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,12 +468,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.recurssion.PowerSet" />
-      <module name="ads" />
+    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.fastnslowptr.LinkedListCycle" />
+      <module name="google-prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kalva.learnings.ads.recurssion.*" />
+          <option name="PATTERN" value="kalva.learnings.ads.fastnslowptr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +481,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubsetWithDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.subsets.SubsetWithDuplicates" />
-      <module name="ads" />
+    <configuration name="RightViewTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.bfs.RightViewTree" />
+      <module name="google-prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kalva.learnings.ads.subsets.*" />
+          <option name="PATTERN" value="kalva.learnings.ads.bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,12 +494,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.subsets.Subsets" />
-      <module name="ads" />
+    <configuration name="ZigzagTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.bfs.ZigzagTraversal" />
+      <module name="google-prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kalva.learnings.ads.subsets.*" />
+          <option name="PATTERN" value="kalva.learnings.ads.bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,23 +509,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.PowerSet" />
-        <item itemvalue="Application.SubsetWithDuplicates" />
-        <item itemvalue="Application.Subsets" />
-        <item itemvalue="Application.MaximizeCapital" />
+        <item itemvalue="Application.GasStation" />
+        <item itemvalue="Application.LinkedListCycle" />
+        <item itemvalue="Application.ZigzagTraversal" />
+        <item itemvalue="Application.RightViewTree" />
+        <item itemvalue="Application.InorderDFStoTree" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/server/kafka-manager" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../swiggy/delivery/platform/dexp-spark-jobs" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../swiggy/vendor/dexp-spark-jobs" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -502,17 +568,25 @@
       <workItem from="1628916052458" duration="49763000" />
       <workItem from="1629526327239" duration="26167000" />
       <workItem from="1630094343777" duration="32167000" />
-      <workItem from="1631711324323" duration="13243000" />
+      <workItem from="1631711324323" duration="47720000" />
+      <workItem from="1632285123447" duration="62227000" />
+      <workItem from="1633946982915" duration="234000" />
+      <workItem from="1633956554991" duration="3820000" />
+      <workItem from="1633976793522" duration="253000" />
+      <workItem from="1633977104264" duration="36565000" />
+      <workItem from="1634968635715" duration="158000" />
+      <workItem from="1634970166722" duration="54797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302520000" />
+    <option name="totallyTimeSpent" value="436023000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="0" y="25" width="1792" height="1095" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17412141" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17828572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -539,11 +613,11 @@
       <window_info anchor="bottom" id="ANTLR Preview" order="15" />
       <window_info anchor="bottom" id="JRebel Executor" order="16" />
       <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="18" weight="0.32412326" />
+      <window_info anchor="bottom" id="Messages" order="18" weight="0.30988786" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49946865" weight="0.31632653" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49847096" weight="0.3183391" />
       <window_info anchor="right" id="Codota" order="4" />
       <window_info anchor="right" id="make" order="5" />
       <window_info anchor="right" id="Palette" order="6" />
@@ -554,108 +628,102 @@
       <window_info anchor="right" id="Palette&#9;" order="11" />
       <window_info anchor="right" id="Theme Preview" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="13" />
-      <window_info anchor="right" id="Debug" order="14" side_tool="true" weight="0.34824282" />
-      <window_info anchor="right" id="Run" order="15" sideWeight="0.5005314" side_tool="true" visible="true" weight="0.3056443" />
+      <window_info anchor="right" id="Debug" order="14" sideWeight="0.50152904" side_tool="true" weight="0.31771427" />
+      <window_info anchor="right" id="Run" order="15" sideWeight="0.5005314" side_tool="true" weight="0.28285715" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/InorderSuccessor.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/InorderSuccessor.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/MinimumWindowSubstring.java</url>
           <line>57</line>
-          <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/TripletWithSmallerSum.java</url>
           <line>62</line>
-          <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/IntervalsIntersection.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/EmployeeFreeTime.java</url>
           <line>68</line>
-          <properties />
           <option name="timeStamp" value="167" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ConnectAllSiblings.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="215" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/WordConcatenation.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="237" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/trie/Trie.java</url>
           <line>98</line>
-          <properties />
           <option name="timeStamp" value="253" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/avl/ConstructAVLTree.java</url>
           <line>65</line>
-          <properties />
           <option name="timeStamp" value="280" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/avl/AVLTree.java</url>
-          <line>99</line>
-          <properties />
-          <option name="timeStamp" value="294" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/QuotientFilter.java</url>
           <line>267</line>
-          <properties />
           <option name="timeStamp" value="296" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/QuotientFilter.java</url>
           <line>55</line>
-          <properties />
           <option name="timeStamp" value="297" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Metadata.java</url>
           <line>2</line>
-          <properties />
           <option name="timeStamp" value="300" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Permutations.java</url>
-          <line>62</line>
-          <properties />
-          <option name="timeStamp" value="312" />
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/LetterCaseStringPermutation.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/FindRange.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/MaxInBitonicArray.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/BalancedTree.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/RightViewTree.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="431" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ads$ReverseEveryKElements.ic" NAME="ReverseEveryKElements Coverage Results" MODIFIED="1629376192888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -665,495 +733,628 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>sb</expression-string>
+        <expression-string>st.length()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>slot.getMetadata().getOccupied()</expression-string>
+        <expression-string>opt.empty()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getHeight(root.left) - getHeight(root.right)</expression-string>
+        <expression-string>opt</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getHeight(root.right)</expression-string>
+        <expression-string>intervals</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getHeight(root.left)</expression-string>
+        <expression-string>interval.end &lt; master.start</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getMaxHeight(getHeight(root.left), getHeight(root.right))</expression-string>
+        <expression-string>interval.start &gt; master.start</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>2&lt;=getHeight(root.left) - getHeight(root.right)</expression-string>
+        <expression-string>interval.end &gt;= master.start</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getHeight(root)</expression-string>
+        <expression-string>found</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Collections.nCopies(CHAR_SIZE, null)</expression-string>
+        <expression-string>!completed</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/cyclicsort/README.cmd">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twopointer/PairWithTargetSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="843">
+          <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/README.cmd">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/xor/CalculateComplement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="280" selection-start-line="2" selection-start-column="280" selection-end-line="2" selection-end-column="280" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ReverseLevelOrderTraversal.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ZigzagTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/LevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="32" column="17" selection-start-line="27" selection-start-column="16" selection-end-line="32" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ConnectLevelOrderSiblings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/ConnectAllSiblings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/RightViewTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/BinaryTreeDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/SumOfPathNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/TreePathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/StringAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/slidingwindow/WordConcatenation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="57" column="63" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/PathWithGivenSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="docComment;method#findPath#0;class#PathWithGivenSequence#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="94" column="12" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/CountAllPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/TreeDiameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dfs/MaximumPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MedianOfAStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" selection-start-line="29" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/SlidingWindowMedian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="4981" column="19" selection-start-line="4981" selection-start-column="19" selection-end-line="4981" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="395" column="10" selection-start-line="395" selection-start-column="10" selection-end-line="395" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/EmployeeFreeTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/trie/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TrieNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/RecurssionOps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bst/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/avl/ConstructAVLTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="e#906#907#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="618">
+          <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/avl/AVLTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="582">
+          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
           <folding>
             <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="486" column="36" selection-start-line="486" selection-start-column="36" selection-end-line="486" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/DoubleCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MergeIntervalsForMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/Flipping1s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/GasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="120" column="55" selection-start-line="120" selection-start-column="55" selection-end-line="120" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximumSquareSubMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MjorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="35" column="56" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2474">
+          <caret line="275" lean-forward="true" selection-start-line="275" selection-end-line="275" />
+          <folding>
+            <element signature="docComment;class#Date#0" />
+            <element signature="e#5490#5723#0" />
+            <element signature="e#5884#6051#0" />
+            <element signature="e#6128#6371#0" />
+            <element signature="e#6445#6816#0" />
+            <element signature="e#6882#7513#0" />
+            <element signature="e#7632#8444#0" />
+            <element signature="e#8585#9475#0" />
+            <element signature="e#8585#10177#0" />
+            <element signature="e#9708#9773#1" />
+            <element signature="e#9794#9910#1" />
+            <element signature="e#10183#10677#0" />
+            <element signature="e#10757#10805#0" />
+            <element signature="e#10757#11105#0" />
+            <element signature="e#10869#11025#0" />
+            <element signature="e#10939#11015#1" />
+            <element signature="e#11111#12478#0" />
+            <element signature="e#11111#13399#0" />
+            <element signature="e#12749#12814#1" />
+            <element signature="e#12835#12951#1" />
+            <element signature="e#13194#13255#0" />
+            <element signature="e#13405#20396#0" />
+            <element signature="e#13405#27315#0" />
+            <element signature="e#20780#27239#1" />
+            <element signature="e#20905#25852#1" />
+            <element signature="e#21063#21471#1" />
+            <element signature="e#21155#21423#1" />
+            <element signature="e#21514#23922#1" />
+            <element signature="e#21627#21725#1" />
+            <element signature="e#21809#22315#1" />
+            <element signature="e#24030#25838#1" />
+            <element signature="e#24106#24311#1" />
+            <element signature="e#24540#25720#1" />
+            <element signature="e#24636#25659#1" />
+            <element signature="e#24687#24954#1" />
+            <element signature="e#24978#25244#1" />
+            <element signature="e#25268#25525#1" />
+            <element signature="e#25531#25629#1" />
+            <element signature="e#26048#26404#1" />
+            <element signature="e#26092#26270#0" />
+            <element signature="e#26144#26252#1" />
+            <element signature="e#26646#26965#1" />
+            <element signature="e#28121#28578#0" />
+            <element signature="e#28678#29391#0" />
+            <element signature="e#29513#29999#0" />
+            <element signature="e#30127#30820#0" />
+            <element signature="e#30127#31342#0" />
+            <element signature="e#30919#30983#1" />
+            <element signature="e#31004#31119#1" />
+            <element signature="e#31189#31260#1" />
+            <element signature="e#31348#31929#0" />
+            <element signature="e#32028#32768#0" />
+            <element signature="e#32879#33543#0" />
+            <element signature="e#33662#34201#0" />
+            <element signature="e#34296#34832#0" />
+            <element signature="e#34941#35373#0" />
+            <element signature="e#35472#36021#0" />
+            <element signature="e#36138#36672#0" />
+            <element signature="e#36771#37308#0" />
+            <element signature="e#37425#37691#0" />
+            <element signature="e#37761#37915#0" />
+            <element signature="e#37848#37884#1" />
+            <element signature="e#37921#38143#0" />
+            <element signature="e#37921#38233#0" />
+            <element signature="e#38239#38672#0" />
+            <element signature="e#38777#39195#0" />
+            <element signature="e#39299#39949#0" />
+            <element signature="e#40076#40202#0" />
+            <element signature="e#40076#40464#0" />
+            <element signature="e#40311#40356#1" />
+            <element signature="e#40470#40977#0" />
+            <element signature="e#40470#41202#0" />
+            <element signature="e#41208#41646#0" />
+            <element signature="e#41208#41758#0" />
+            <element signature="e#41764#43223#0" />
+            <element signature="e#41764#44297#0" />
+            <element signature="e#43477#43511#1" />
+            <element signature="e#44048#44158#1" />
+            <element signature="e#44164#44205#1" />
+            <element signature="e#44303#44483#0" />
+            <element signature="e#44303#44710#0" />
+            <element signature="e#44716#45454#0" />
+            <element signature="e#44716#45617#0" />
+            <element signature="e#45623#47036#0" />
+            <element signature="e#45623#47965#0" />
+            <element signature="e#47971#49528#0" />
+            <element signature="e#47971#50051#0" />
+            <element signature="e#49633#49898#1" />
+            <element signature="e#49727#49814#1" />
+            <element signature="e#49820#49888#1" />
+            <element signature="e#49904#49988#1" />
+            <element signature="e#50057#50392#0" />
+            <element signature="e#50136#50364#1" />
+            <element signature="e#50398#51303#0" />
+            <element signature="e#50471#50725#1" />
+            <element signature="e#50735#50795#0" />
+            <element signature="e#50880#50929#1" />
+            <element signature="e#50939#50999#0" />
+            <element signature="e#51124#51275#1" />
+            <element signature="e#51309#53568#0" />
+            <element signature="e#51741#51801#0" />
+            <element signature="e#52294#52787#1" />
+            <element signature="e#52324#52389#1" />
+            <element signature="e#52882#53031#1" />
+            <element signature="e#53141#53199#0" />
+            <element signature="e#53348#53541#1" />
+            <element signature="e#53574#53839#0" />
+            <element signature="e#53574#54012#0" />
+            <element signature="e#53934#53970#1" />
+            <element signature="e#54018#54487#0" />
+            <element signature="e#54090#54152#0" />
+            <element signature="e#54409#54445#1" />
+            <element signature="e#54493#54734#0" />
+            <element signature="e#54598#54634#1" />
+            <element signature="e#54671#54707#1" />
+            <element signature="e#54740#54941#0" />
+            <element signature="e#54835#54914#1" />
+            <element signature="e#54947#55237#0" />
+            <element signature="e#54947#55364#0" />
+            <element signature="e#55370#55451#0" />
+            <element signature="e#55370#55597#0" />
+            <element signature="e#55603#56536#0" />
+            <element signature="e#55603#56761#0" />
+            <element signature="e#56596#56660#0" />
+            <element signature="e#56692#56755#0" />
+            <element signature="e#56767#57111#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/sql/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#9714#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1396#1397#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#5059#5091#0" expanded="true" />
+            <element signature="e#6105#6106#0" expanded="true" />
+            <element signature="e#6167#6168#0" expanded="true" />
+            <element signature="e#6468#6469#0" expanded="true" />
+            <element signature="e#6530#6531#0" expanded="true" />
+            <element signature="e#6831#6832#0" expanded="true" />
+            <element signature="e#6893#6894#0" expanded="true" />
+            <element signature="e#7196#7197#0" expanded="true" />
+            <element signature="e#7258#7259#0" expanded="true" />
+            <element signature="e#7565#7566#0" expanded="true" />
+            <element signature="e#7627#7628#0" expanded="true" />
+            <element signature="e#7934#7935#0" expanded="true" />
+            <element signature="e#7996#7997#0" expanded="true" />
+            <element signature="e#8639#8671#0" expanded="true" />
+            <element signature="e#9182#9214#0" expanded="true" />
+            <element signature="e#9250#9251#0" expanded="true" />
+            <element signature="e#9330#9331#0" expanded="true" />
+            <element signature="e#9643#9644#0" expanded="true" />
+            <element signature="e#9710#9711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/FunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="54" selection-start-line="54" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="1843" column="5" selection-start-line="1843" selection-start-column="5" selection-end-line="1843" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/LargestRectInHisto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" selection-start-line="15" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/collect/ImmutableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="437" column="17" selection-start-line="437" selection-start-column="17" selection-end-line="437" selection-end-column="17" />
+          <folding>
+            <element signature="e#13962#13963#0" expanded="true" />
+            <element signature="e#14013#14014#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/BitSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="620" column="19" selection-start-line="620" selection-start-column="19" selection-end-line="620" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.3.0-alpha10/logback-classic-1.3.0-alpha10.jar!/ch/qos/logback/classic/BasicConfigurator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.3.0-alpha10/logback-classic-1.3.0-alpha10-sources.jar!/ch/qos/logback/classic/util/ContextInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#2043#2044#0" expanded="true" />
-            <element signature="e#2093#2094#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.3.0-alpha10/logback-classic-1.3.0-alpha10-sources.jar!/ch/qos/logback/classic/spi/LogbackServiceProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.3.0-alpha10/logback-classic-1.3.0-alpha10-sources.jar!/ch/qos/logback/classic/BasicConfigurator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/MetadataBitSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Metadata.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/Slot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="408">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/interview/LexographicalRanking.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="5880">
+          <caret line="285" column="35" selection-start-line="285" selection-start-column="35" selection-end-line="285" selection-end-column="35" />
           <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#2998#2999#0" expanded="true" />
+            <element signature="e#3042#3043#0" expanded="true" />
+            <element signature="e#3486#3487#0" expanded="true" />
+            <element signature="e#3544#3545#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/QuotientFilter.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        <state relative-caret-position="13464">
+          <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
           <folding>
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#983#984#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1048#1049#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1229#1230#0" expanded="true" />
-            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#0#33182#0" expanded="true" />
+            <element signature="e#33104#33105#0" expanded="true" />
+            <element signature="e#33178#33179#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/MaximizeCapital.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="219">
+          <caret line="201" column="37" lean-forward="true" selection-start-line="201" selection-start-column="37" selection-end-line="201" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/twoheaps/NextInterval.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/SubsequenceCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="302">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/PowerSet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MinPalindromCuts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="727">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/recurssion/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/CeilingOfANumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="47" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/NextLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
           <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Subsets.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/FindRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        <state relative-caret-position="240">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchInfiniteSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="43" column="49" lean-forward="true" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+          <folding>
+            <element signature="e#1581#1582#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/MinimumDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="61" column="99" selection-start-line="61" selection-start-column="99" selection-end-line="61" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchBitonicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/MaxInBitonicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/SearchRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/RotationCountOfRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/README/cmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/README.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KLargestNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/SubsetWithDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="33" />
+        <state relative-caret-position="360">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KClosestPointsToOrigin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/permuations/Recursion.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/ConnectRopes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        <state relative-caret-position="634">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Permutations.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets/Permutations.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/TopKFrequentNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        <state relative-caret-position="836">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/FrequencySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KthLargestNumberInStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/KClosestElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/MaximumDistinctElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/SumOfElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/topk/RearrangeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="40" column="81" lean-forward="true" selection-start-line="40" selection-start-column="81" selection-end-line="40" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

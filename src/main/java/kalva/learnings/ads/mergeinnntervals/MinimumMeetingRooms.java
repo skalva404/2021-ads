@@ -45,7 +45,10 @@ import java.util.*;
  * [2,3] overlaps with [2,4], so after merging we’ll have => [[2,4], [3,5], [4,5]]
  * [2,4] overlaps with [3,5], so after merging we’ll have => [[2,5], [4,5]]
  * [2,5] overlaps [4,5], so after merging we’ll have => [2,5]
- * Since all the given meetings have merged into one big meeting ([2,5]), does this mean that they all are overlapping and we need a minimum of four rooms to hold these meetings? You might have already guessed that the answer is NO! As we can clearly see, some meetings are mutually exclusive. For example, [2,3] and [3,5] do not overlap and can happen in one room. So, to correctly solve our problem, we need to keep track of the mutual exclusiveness of the overlapping meetings.
+ * Since all the given meetings have merged into one big meeting ([2,5]), does this mean that they all are overlapping and
+ * we need a minimum of four rooms to hold these meetings? You might have already guessed that the answer is NO!
+ * As we can clearly see, some meetings are mutually exclusive. For example, [2,3] and [3,5] do not overlap and can happen in one room.
+ * So, to correctly solve our problem, we need to keep track of the mutual exclusiveness of the overlapping meetings.
  * <p>
  * Here is what our strategy will look like:
  * <p>
@@ -61,9 +64,11 @@ import java.util.*;
  * Sort all the meetings on their start time.
  * Create a min-heap to store all the active meetings. This min-heap will also be used to find the active meeting with the smallest end time.
  * Iterate through all the meetings one by one to add them in the min-heap. Let’s say we are trying to schedule the meeting m1.
- * Since the min-heap contains all the active meetings, so before scheduling m1 we can remove all meetings from the heap that have ended before m1, i.e., remove all meetings from the heap that have an end time smaller than or equal to the start time of m1.
+ * Since the min-heap contains all the active meetings, so before scheduling m1 we can remove all meetings
+ * from the heap that have ended before m1, i.e., remove all meetings from the heap that have an end time smaller than or equal to the start time of m1.
  * Now add m1 to the heap.
- * The heap will always have all the overlapping meetings, so we will need rooms for all of them. Keep a counter to remember the maximum size of the heap at any time which will be the minimum number of rooms needed.
+ * The heap will always have all the overlapping meetings, so we will need rooms for all of them.
+ * Keep a counter to remember the maximum size of the heap at any time which will be the minimum number of rooms needed.
  * </p>
  */
 public class MinimumMeetingRooms {
@@ -71,13 +76,12 @@ public class MinimumMeetingRooms {
     public static int findMinimumIntervalRooms(List<Interval> meetings) {
 
         // sort the meetings by start time
-        Collections.sort(meetings, Comparator.comparingInt(a -> a.start));
+        meetings.sort(Comparator.comparingInt(a -> a.start));
 
         int minRooms = 0;
         PriorityQueue<Interval> minHeap = new PriorityQueue<>(meetings.size(), Comparator.comparingInt(a -> a.end));
 
-        for (int i = 0; i < meetings.size(); i++) {
-            Interval interval = meetings.get(i);
+        for (Interval interval : meetings) {
             // remove all meetings that have ended
             while (!minHeap.isEmpty() && interval.start >= minHeap.peek().end) {
                 minHeap.poll();
@@ -100,45 +104,45 @@ public class MinimumMeetingRooms {
         int result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
         System.out.println("Minimum Rooms rooms required: " + result);
 
-        input = new ArrayList<Interval>() {
-            {
-                add(new Interval(1, 4));
-                add(new Interval(2, 5));
-                add(new Interval(7, 9));
-            }
-        };
-        result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
-        System.out.println("Minimum Rooms rooms required: " + result);
-
-        input = new ArrayList<Interval>() {
-            {
-                add(new Interval(6, 7));
-                add(new Interval(2, 4));
-                add(new Interval(8, 12));
-            }
-        };
-        result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
-        System.out.println("Minimum Rooms rooms required: " + result);
-
-        input = new ArrayList<Interval>() {
-            {
-                add(new Interval(1, 4));
-                add(new Interval(2, 3));
-                add(new Interval(3, 6));
-            }
-        };
-        result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
-        System.out.println("Minimum Rooms rooms required: " + result);
-
-        input = new ArrayList<Interval>() {
-            {
-                add(new Interval(4, 5));
-                add(new Interval(2, 3));
-                add(new Interval(2, 4));
-                add(new Interval(3, 5));
-            }
-        };
-        result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
-        System.out.println("Minimum Rooms rooms required: " + result);
+//        input = new ArrayList<Interval>() {
+//            {
+//                add(new Interval(1, 4));
+//                add(new Interval(2, 5));
+//                add(new Interval(7, 9));
+//            }
+//        };
+//        result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
+//        System.out.println("Minimum Rooms rooms required: " + result);
+//
+//        input = new ArrayList<Interval>() {
+//            {
+//                add(new Interval(6, 7));
+//                add(new Interval(2, 4));
+//                add(new Interval(8, 12));
+//            }
+//        };
+//        result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
+//        System.out.println("Minimum Rooms rooms required: " + result);
+//
+//        input = new ArrayList<Interval>() {
+//            {
+//                add(new Interval(1, 4));
+//                add(new Interval(2, 3));
+//                add(new Interval(3, 6));
+//            }
+//        };
+//        result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
+//        System.out.println("Minimum Rooms rooms required: " + result);
+//
+//        input = new ArrayList<Interval>() {
+//            {
+//                add(new Interval(4, 5));
+//                add(new Interval(2, 3));
+//                add(new Interval(2, 4));
+//                add(new Interval(3, 5));
+//            }
+//        };
+//        result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
+//        System.out.println("Minimum Rooms rooms required: " + result);
     }
 }

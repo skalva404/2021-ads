@@ -22,6 +22,7 @@ public class BalancedTree {
         root.right().left(new TreeNode(30));
         root.right().right(new TreeNode(35));
         System.out.println(" Is Tree Balanced : " + (isBalanced(root) > 0));
+
         root.right().right().right(new TreeNode(40));
         root.right().right().right().right(new TreeNode(45));
         System.out.println(" Is Tree Balanced : " + (isBalanced(root) > 0));
@@ -39,9 +40,9 @@ public class BalancedTree {
         if (1 < Math.abs(left - right)) {
             return -1;
         }
-        if (-1 == left || -1 == right) {
-            return -1;
-        }
+//        if (-1 == left || -1 == right) {
+//            return -1;
+//        }
 
         return 1 + Math.max(left, right);
     }

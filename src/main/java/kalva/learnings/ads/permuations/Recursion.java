@@ -23,7 +23,7 @@ public class Recursion {
         for (int i = cid; i < elements.length; i++) {
             swap(elements, cid, i);
             printAllRecursive(cid + 1, elements);
-            swap(elements, cid, i);
+//            swap(elements, cid, i);
         }
     }
 

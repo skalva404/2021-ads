@@ -2,6 +2,8 @@ package kalva.learnings.ads.recurssion;
 
 public class PowerSet {
 
+    static int ctr = 0;
+
     static void printPowerSet(char[] set) {
 
         long pow_set_size = (long) Math.pow(2, set.length);
@@ -20,11 +22,11 @@ public class PowerSet {
     static void powerSetRecursive1(String str, int index, String curr) {
 
         if (str.length() == index) {
-            System.out.println(curr);
+            System.out.println((ctr++) + " ==> " + curr);
             return;
         }
-        powerSetRecursive1(str, index + 1, curr + str.charAt(index));
         powerSetRecursive1(str, index + 1, curr);
+        powerSetRecursive1(str, index + 1, curr + str.charAt(index));
     }
 
     static void powerSetRecursive(String str, int index, String curr) {
@@ -43,11 +45,13 @@ public class PowerSet {
         String curr = "";
 
         powerSetRecursive(str, index, curr);
-        System.out.println("================");
-        char[] set = {'a', 'b', 'c'};
-        printPowerSet(set);
-
-        System.out.println("================");
-        powerSetRecursive1("abc", 0, "");
+        System.out.println();
+        powerSetRecursive1(str, 0, curr);
+//        System.out.println("================");
+//        char[] set = {'a', 'b', 'c'};
+//        printPowerSet(set);
+//
+//        System.out.println("================");
+//        powerSetRecursive1("abc", 0, "");
     }
 }
