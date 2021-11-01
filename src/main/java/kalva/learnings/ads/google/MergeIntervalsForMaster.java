@@ -60,7 +60,7 @@ public class MergeIntervalsForMaster {
         intervals.add(new Interval(14, 18));
         intervals.add(new Interval(8, 16));
         intervals.add(new Interval(7, 25));
-        System.out.println(findCountOfSubsets(new ArrayList<>(intervals), new Interval(5, 53)));
+        System.out.println(findCountOfSubsets(new ArrayList<>(intervals), new Interval(5, 25)));
         System.out.println("====================");
         System.out.println(findCountOfSubsets(new ArrayList<>(intervals), new Interval(5, 23)));
         System.out.println("====================");

@@ -3,7 +3,6 @@ package kalva.learnings.ads.google;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Stack;
-import java.util.concurrent.Callable;
 
 public class LargestRectInHisto {
 
@@ -13,10 +12,6 @@ public class LargestRectInHisto {
         System.out.println("Maximum area is " + getMaxArea(hist));
     }
 
-    Callable c = () -> {
-        System.out.println("dummy");
-        return "testing";
-    };
     public static int getMaxArea(ArrayList<Integer> hist) {
 
         int maxArea = 0; // Initialize max area
@@ -34,7 +29,6 @@ public class LargestRectInHisto {
             maxArea = compute(hist, maxArea, s, ctr);
         }
         return maxArea;
-
     }
 
     private static int compute(ArrayList<Integer> hist, int maxArea, Stack<Integer> s, int ctr) {

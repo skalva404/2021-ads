@@ -15,7 +15,6 @@ public class MinPalindromCuts {
 
     static int topDown(String string, Integer dp[][], int i, int j) {
 
-        String str = string.substring(i, j + 1);
         if (i >= j || isPalindrome(string, i, j)) {
             return 0;
         }
