@@ -10,6 +10,6 @@
         <module name="google-prep" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17" />
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

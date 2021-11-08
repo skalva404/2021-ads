@@ -1,4 +1,4 @@
-package kalva.learnings.ads.AlgorithmsMadeEasy;
+package kalva.learnings.ads.backtracking;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,7 +25,6 @@ public class NQueen {
         if (queens.size() == board.length) {
             List<String> rows = new ArrayList<>();
             for (char[] row : board) {
-//                rows.add(new String(row));
                 rows.add(getLine(row));
             }
             result.add(rows);
@@ -70,7 +69,7 @@ public class NQueen {
     }
 
     public static void main(String[] args) {
-        new NQueen().solveNQueens(6).print();
+        new NQueen().solveNQueens(8).print();
 //        new NQueen().solveNQueens(1).print();
     }
 }

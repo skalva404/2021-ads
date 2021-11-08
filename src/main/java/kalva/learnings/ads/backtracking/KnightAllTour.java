@@ -3,7 +3,7 @@ package kalva.learnings.ads.backtracking;
 /**
  * https://algorithms.tutorialhorizon.com/backtracking-knights-tour-problem
  */
-public class KnightsTour {
+public class KnightAllTour {
 
     static int count = 0;
 

@@ -43,8 +43,9 @@ public class MinPalindromCuts {
         boolean[][] isPalindrome = new boolean[st.length()][st.length()];
 
         // every string with one character is a palindrome
-        for (int i = 0; i < st.length(); i++)
+        for (int i = 0; i < st.length(); i++) {
             isPalindrome[i][i] = true;
+        }
 
         // populate isPalindrome table
         for (int startIndex = st.length() - 1; startIndex >= 0; startIndex--) {

@@ -1,5 +1,6 @@
-package kalva.learnings.ads.google;
+package kalva.learnings.ads.backtracking;
 
+//https://www.youtube.com/watch?v=pp8K5C2hMr4
 public class PalindromeSubstrings {
 
     private static int dp(String str) {
@@ -47,6 +48,7 @@ public class PalindromeSubstrings {
 
     public static void main(String[] args) {
         System.out.println(dp("abcbbc"));
+        System.out.println();
         System.out.println(binary("abcbbc"));
     }
 }

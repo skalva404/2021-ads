@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b96cc6d-a110-47c7-b109-d5f30177401e" name="Default Changelist" comment="bh">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/BT-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/BT-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/BT-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/BT-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/KnightTour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/KnightsTour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/RateMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/SubSetProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/HamiltonianCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/MColoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/subset-dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/basic/EqualList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/LargestRectInHisto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/LargestRectInHisto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MergeIntervalsForMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MergeIntervalsForMaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/AlgorithmsMadeEasy/NQueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/NQueen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/KnightsTour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/KnightAllTour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/SubSetProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/SubSetProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MinPalindromCuts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MinPalindromCuts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/interview/LexographicalRanking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/LexographicalRanking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/PalindromeSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/PalindromeSubstrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MaximumCPULoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MaximumCPULoad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -376,10 +376,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/subsets" />
       <recent name="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kalva.learnings.ads.AlgorithmsMadeEasy" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SubSetProblem">
-    <configuration name="KnightTour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.backtracking.KnightTour" />
+  <component name="RunManager" selected="Application.HamiltonianCycle">
+    <configuration name="HamiltonianCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.backtracking.HamiltonianCycle" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
@@ -404,8 +407,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KnightsTour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.backtracking.KnightsTour" />
+    <configuration name="MColoring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.backtracking.MColoring" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
@@ -417,12 +420,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervalsForMaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.google.MergeIntervalsForMaster" />
+    <configuration name="NQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.backtracking.NQueen" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kalva.learnings.ads.google.*" />
+          <option name="PATTERN" value="kalva.learnings.ads.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,8 +433,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RateMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.backtracking.RateMaze" />
+    <configuration name="PalindromeSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.backtracking.PalindromeSubstrings" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
@@ -458,11 +461,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HamiltonianCycle" />
+        <item itemvalue="Application.MColoring" />
+        <item itemvalue="Application.NQueen" />
+        <item itemvalue="Application.PalindromeSubstrings" />
         <item itemvalue="Application.SubSetProblem" />
-        <item itemvalue="Application.KnightsTour" />
-        <item itemvalue="Application.RateMaze" />
-        <item itemvalue="Application.KnightTour" />
-        <item itemvalue="Application.KnightsTour" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +528,7 @@
       <workItem from="1633977104264" duration="36565000" />
       <workItem from="1634968635715" duration="158000" />
       <workItem from="1634970166722" duration="83972000" />
-      <workItem from="1635761573045" duration="1877000" />
+      <workItem from="1635761573045" duration="44176000" />
     </task>
     <servers />
   </component>
@@ -644,11 +647,6 @@
           <option name="timeStamp" value="317" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java</url>
-          <line>85</line>
-          <option name="timeStamp" value="355" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binarysearch/FindRange.java</url>
           <line>31</line>
           <option name="timeStamp" value="371" />
@@ -667,6 +665,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/RightViewTree.java</url>
           <line>19</line>
           <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="441" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

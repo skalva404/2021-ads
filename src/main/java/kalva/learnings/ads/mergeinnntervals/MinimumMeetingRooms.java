@@ -1,6 +1,9 @@
 package kalva.learnings.ads.mergeinnntervals;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.PriorityQueue;
 
 /**
  * Minimum Meeting Rooms (hard) #
@@ -95,14 +98,16 @@ public class MinimumMeetingRooms {
     public static void main(String[] args) {
         List<Interval> input = new ArrayList<Interval>() {
             {
+                add(new Interval(1, 4));
                 add(new Interval(4, 5));
+                add(new Interval(2, 3));
                 add(new Interval(2, 3));
                 add(new Interval(2, 4));
                 add(new Interval(3, 5));
             }
         };
         int result = MinimumMeetingRooms.findMinimumIntervalRooms(input);
-        System.out.println("Minimum Rooms rooms required: " + result);
+        System.out.println("Minimum rooms required: " + result);
 
 //        input = new ArrayList<Interval>() {
 //            {
