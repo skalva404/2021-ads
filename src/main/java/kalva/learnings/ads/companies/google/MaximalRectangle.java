@@ -1,9 +1,7 @@
-package kalva.learnings.ads.google;
+package kalva.learnings.ads.companies.google;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
-import static kalva.learnings.ads.google.LargestRectInHisto.getMaxArea;
 
 /**
  * https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
@@ -21,13 +19,13 @@ public class MaximalRectangle {
     }
 
     private static int maxRectangle(ArrayList<ArrayList<Integer>> a) {
-        int maxArea = getMaxArea(a.get(0));
+        int maxArea = LargestRectInHisto.getMaxArea(a.get(0));
         for (int i = 1; i < a.size(); i++) {
             for (int j = 0; j < a.get(i).size(); j++) {
                 if (1 == a.get(i).get(j)) {
                     a.get(i).set(j, a.get(i - 1).get(j) + a.get(i).get(j));
                 }
-                maxArea = Math.max(maxArea, getMaxArea(a.get(i)));
+                maxArea = Math.max(maxArea, LargestRectInHisto.getMaxArea(a.get(i)));
             }
         }
         return maxArea;

@@ -1,4 +1,4 @@
-package kalva.learnings.ads.google;
+package kalva.learnings.ads.companies.google;
 
 public class LexographicalRanking {
 

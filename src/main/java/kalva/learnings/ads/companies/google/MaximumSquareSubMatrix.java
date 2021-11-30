@@ -1,4 +1,4 @@
-package kalva.learnings.ads.google;
+package kalva.learnings.ads.companies.google;
 
 import java.util.ArrayList;
 import java.util.Arrays;
