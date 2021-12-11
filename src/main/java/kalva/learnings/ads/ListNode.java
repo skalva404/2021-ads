@@ -3,6 +3,7 @@ package kalva.learnings.ads;
 import kalva.learnings.ads.linkedlist.ReverseSubList;
 
 public class ListNode {
+
     public int value = 0;
     public ListNode next;
 
@@ -15,6 +16,12 @@ public class ListNode {
         return "ListNode{" +
                 "value=" + value +
                 '}';
+    }
+
+    public ListNode insert(Integer value) {
+        ListNode newNode  = new ListNode(value);
+        this.next = newNode;
+        return next;
     }
 
     public void printLoop(ListNode loopNode) {

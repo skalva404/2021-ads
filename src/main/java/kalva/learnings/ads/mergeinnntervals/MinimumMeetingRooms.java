@@ -96,7 +96,7 @@ public class MinimumMeetingRooms {
     }
 
     public static void main(String[] args) {
-        List<Interval> input = new ArrayList<Interval>() {
+        List<Interval> input = new ArrayList<>() {
             {
                 add(new Interval(1, 4));
                 add(new Interval(4, 5));

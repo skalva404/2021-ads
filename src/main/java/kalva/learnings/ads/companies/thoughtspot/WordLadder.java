@@ -68,7 +68,7 @@ public class WordLadder {
 
     }
 
-    
+
     private static HashMap<String, HashSet<String>> graph = new HashMap<>();
     private static List<List<String>> res = new ArrayList<>();
 }

@@ -225,7 +225,7 @@ public class TreeNode {
         _printBFS(node.right(), level, currentLevel + 1);
     }
 
-    private void _printInOrder(TreeNode node) {
+    public static void _printInOrder(TreeNode node) {
         if (null == node) {
             return;
         }

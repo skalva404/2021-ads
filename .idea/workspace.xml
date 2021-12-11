@@ -5,36 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b96cc6d-a110-47c7-b109-d5f30177401e" name="Default Changelist" comment="bh">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/arrays/MaxSumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/Cryptarithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/MagnetPuzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/Sudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/QuadBoundary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/QuadNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/QuadTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/SpatialQuadTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/BiggestIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/MaxMinPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/ShortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/WordLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/dp/MaximumSubArrayDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/pds/qf/LinearProbing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/SaLCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/CarParking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/LLToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/LongOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/MergeBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/MinimumDiceLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/SerDeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/kdtree/KdTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/kdtree/RectHV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/HamiltonianCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/backtracking/HamiltonianCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/Flipping1s.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/Flipping1s.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/GasStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/GasStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/LargestRectInHisto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/LargestRectInHisto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/LexographicalRanking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/LexographicalRanking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/MaximalRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MaximumSquareSubMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/MaximumSquareSubMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MergeIntervalsForMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/MergeIntervalsForMaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MinPalindromCuts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/MinPalindromCuts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/MjorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/MjorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/google/SubsequenceCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/google/SubsequenceCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/ShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/ShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/WordLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/WordLadder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kalva/learnings/ads/mergeinnntervals/MinimumMeetingRooms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,9 +390,9 @@
       <recent name="kalva.learnings.ads.AlgorithmsMadeEasy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordLadder">
-    <configuration name="BiggestIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.BiggestIsland" />
+  <component name="RunManager" selected="Application.LongOperations">
+    <configuration name="CarParking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.CarParking" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
@@ -416,8 +404,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.EditDistance" />
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.CoinChange" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
@@ -429,8 +417,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxMinPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.MaxMinPairs" />
+    <configuration name="LLToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.LLToBST" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
@@ -442,12 +430,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpatialQuadTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.cpmpanies.google.SpatialQuadTree" />
+    <configuration name="LongOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.LongOperations" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kalva.learnings.ads.cpmpanies.google.*" />
+          <option name="PATTERN" value="kalva.learnings.ads.companies.thoughtspot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -455,8 +443,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.WordLadder" />
+    <configuration name="MinimumDiceLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalva.learnings.ads.companies.thoughtspot.MinimumDiceLadder" />
       <module name="google-prep" />
       <extension name="coverage">
         <pattern>
@@ -470,11 +458,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordLadder" />
-        <item itemvalue="Application.EditDistance" />
-        <item itemvalue="Application.BiggestIsland" />
-        <item itemvalue="Application.MaxMinPairs" />
-        <item itemvalue="Application.SpatialQuadTree" />
+        <item itemvalue="Application.LongOperations" />
+        <item itemvalue="Application.CarParking" />
+        <item itemvalue="Application.CoinChange" />
+        <item itemvalue="Application.MinimumDiceLadder" />
+        <item itemvalue="Application.LLToBST" />
       </list>
     </recent_temporary>
   </component>
@@ -540,7 +528,8 @@
       <workItem from="1635761573045" duration="57430000" />
       <workItem from="1636739208053" duration="35683000" />
       <workItem from="1637303092835" duration="4150000" />
-      <workItem from="1637950198201" duration="35249000" />
+      <workItem from="1637950198201" duration="84325000" />
+      <workItem from="1639168798950" duration="5588000" />
     </task>
     <servers />
   </component>
@@ -669,11 +658,6 @@
           <option name="timeStamp" value="380" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/binary/BalancedTree.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="427" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/bfs/RightViewTree.java</url>
           <line>19</line>
           <option name="timeStamp" value="431" />
@@ -699,9 +683,9 @@
           <option name="timeStamp" value="508" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/BiggestIsland.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="519" />
+          <url>file://$PROJECT_DIR$/src/main/java/kalva/learnings/ads/companies/thoughtspot/MinHeap.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="552" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
@@ -709,6 +693,11 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="myArr[index]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
